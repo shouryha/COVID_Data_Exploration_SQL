@@ -1,4 +1,4 @@
-# COVID_Data_Exploration_SQL
+# COVID Data Exploration using SQL
 
 Projects done on real-world problems and datasets
 
