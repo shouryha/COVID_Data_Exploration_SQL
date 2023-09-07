@@ -1,4 +1,4 @@
-#Portfolio_Projects
+# COVID_Data_Exploration_SQL
 
 Projects done on real-world problems and datasets
 
